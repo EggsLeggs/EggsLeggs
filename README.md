@@ -6,10 +6,9 @@ Welcome to my github, enjoy your stay!
 </p>
 <hr>
 
-## wafflesquad.xyz
-<p>This is my community's website, all my projects are posted here!</p>
-
-## Discussion and Support
-<p>Need support or found an issue?</p>
-
-> For support visit the WaffleSquad website listed above and ask for help in the support channel!
+## I write code, and sometimes it works! ପ(๑•ᴗ•๑)ଓ ♡
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,bash,c,cpp,cs,js,react,redux" />
+  </a>
+</p>
