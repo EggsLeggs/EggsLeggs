@@ -2,7 +2,7 @@
 
 <h3 align="center">I write code, and sometimes it works! ପ(๑•ᴗ•๑)ଓ ♡</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,bash,c,cpp,cs,md,js,react,redux,materialui,postgres" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=python,bash,c,cpp,cs,md,js,ts" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nextjs,express,react,redux,css,html,materialui" />
+    <img src="https://skillicons.dev/icons?i=postgres,cloudflare,docker,git,idea,jest,ps,arduino" />
 </p>
