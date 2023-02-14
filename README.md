@@ -1,4 +1,4 @@
-<h1 align="center">Hi!! I'm Hayden aka EggsLeggs aka Amory 👋</h1>
+<h1 align="center">Hi!! I'm Amory aka EggsLeggs  👋</h1>
 
 <h3 align="center">I write code, and sometimes it works! ପ(๑•ᴗ•๑)ଓ ♡</h3>
 <p align="center">
