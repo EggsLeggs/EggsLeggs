@@ -5,8 +5,8 @@
 <pre>
     💼 Full-stack Developer • Web Developer
     💻 React and Next.js enjoyer • Docker lover 
-    💗 My pronouns are they/them • Respect them
-    🤖 Currently working on GateKeeper & StudyMate
+    💗 My pronouns are they/them
+    🤖 Currently working on ThinkHuman
 </pre>
 <br><br>
 <img src="https://img.wattpad.com/0770c495ab9c4563db2c0a5e7bf0f2b1c15467e5/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f7537492d65396437345a4b4657773d3d2d3638312e313734333166663738383066326361663535313638383732303137312e676966" height="60" />
